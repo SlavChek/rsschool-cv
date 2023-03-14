@@ -22,6 +22,7 @@
   - [Java-Script level 1 HTMLAcademy](https://github.com/SlavChek/805401-kekstagram-28)
   
 ### Навыки:
+
 `HTML` `CSS` `SAS` `BEM` `GIT` `VSCode` `Gulp` `Java-Script` `PHP`
 
 ### Английский язык 
